@@ -1,16 +1,52 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "omkant",
+      "age": 25,
+      "place": "Guwahati",
+      "batch_name": "WEB-22",
+      "profession": "FSD",
+      "id": 3
+    },
+    {
+      "name": "Random1",
+      "age": 24,
+      "place": "Guwahati",
+      "batch_name": "WEB-15",
+      "profession": "Student",
+      "id": 5
+    },
+    {
+      "name": "om",
+      "age": 22,
+      "place": "assam",
+      "batch_name": "WEB-22",
+      "profession": "Frontend",
+      "id": 6
+    },
+    {
+      "name": "Random35",
+      "age": 34,
+      "place": "Guwahati",
+      "batch_name": "WEB-22",
+      "profession": "Backend",
+      "id": 7
     }
   ]
 }
